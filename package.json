@@ -1,0 +1,22 @@
+{
+  "name": "cs50w-project0",
+  "version": "1.0.0",
+  "description": "Web Programming with Python and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrJouts/cs50w-project0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrJouts/cs50w-project0/issues"
+  },
+  "homepage": "https://github.com/MrJouts/cs50w-project0#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
